@@ -1,3 +1,6 @@
 [submodule "/Users/hack/Local/forge-playground/lib/ds-test"]
 	path = /Users/hack/Local/forge-playground/lib/ds-test
 	url = https://github.com/dapphub/ds-test
+[submodule "/Users/hack/Local/forge-playground/lib/solmate"]
+	path = /Users/hack/Local/forge-playground/lib/solmate
+	url = https://github.com/rari-capital/solmate
